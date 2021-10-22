@@ -10,3 +10,4 @@ This is a lesson from Ben Tristem
 * Bt01 Intro,Notes&Assets
 * Bt02 Game Design Document(GDD)
 * Bt03 Setting up my github repo
+* Bt03.5 Test
